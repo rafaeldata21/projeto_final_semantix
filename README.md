@@ -27,12 +27,13 @@ O desenvolvimento do projeto de forma completa deverá contemplar os tópicos ab
 
 - [Projeto](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final_spark.pdf/)
 
-- Ambiente de desenvolvimento
+- [Docker Win 10](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/configura%C3%A7%C3%A3o_docker.md/)
 
-- [Projeto Final](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final.ipynb/)
+- [Ambiente de desenvolvimento](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/Preparando%20Ambiente%20de%20Desenvolvimento.md/)
 
 - [Material Elastic](https://github.com/rafaeldata21/projeto_final_semantix/tree/main/elastic/)
 
-- Docker Win 10
+- [Projeto Final](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final.ipynb/)
+
 
 ⚠ **Observação: Todas as imagens de exemplo (Visualizações) são apenas para referencias, o projeto irá ter valores diferentes e as formas de se criar tabelas com dataframe/dataset das visualizações, pode ser realizado da maneira que preferir.**
