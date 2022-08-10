@@ -21,12 +21,12 @@ Com isso ao final do treinamento foi solicitado o desenvolvimento de um *projeto
 
 O desenvolvimento do projeto de forma completa deverá contemplar os tópicos abaixo:
 
-- Projeto
+- [Projeto](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final_spark.pdf/)
 
 - Ambiente de desenvolvimento
 
-- Projeto Final
+- [Projeto Final](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final.ipynb/)
 
-- Material Elastic
+- [Material Elastic](https://github.com/rafaeldata21/projeto_final_semantix/tree/main/elastic/)
 
 - Docker Win 10
