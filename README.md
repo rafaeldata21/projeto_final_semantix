@@ -34,3 +34,5 @@ O desenvolvimento do projeto de forma completa deverá contemplar os tópicos ab
 - [Material Elastic](https://github.com/rafaeldata21/projeto_final_semantix/tree/main/elastic/)
 
 - Docker Win 10
+
+⚠ **Observação: Todas as imagens de exemplo (Visualizações) são apenas para referencias, o projeto irá ter valores diferentes e as formas de se criar tabelas com dataframe/dataset das visualizações, pode ser realizado da maneira que preferir.**
