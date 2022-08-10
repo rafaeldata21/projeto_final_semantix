@@ -1,4 +1,5 @@
-![semantix](https://user-images.githubusercontent.com/96312454/183932127-9120058a-683c-4215-a962-1a9823ea4ffa.jpg)
+![semantix](https://user-images.githubusercontent.com/96312454/183932127-9120058a-683c-4215-a962-1a9823ea4ffa.jpg) 
+
 
 <p align="center">
     <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
@@ -10,10 +11,13 @@
 
 ## Semantix – Projeto Final
 
+
+
 * Nome: Rafael Felipe Morais dos Santos
 * Instituição: Semantix Academy
 * Turma: Big Data Engineer 08-22
 * Professor: Rodrigo Rebouças
+
 
 
 Ao longo de alguns meses foi transmitido através de treinamento o conhecimento em diversas ferramentas de *Big Data*, durante esse período foram mostradas aplicações como, *Redis*, *Mongo*, *Hive*, *Elastic*, *Spark* entre outras.
