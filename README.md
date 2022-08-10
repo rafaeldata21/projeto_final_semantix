@@ -9,8 +9,8 @@
 	<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-## Semantix – Projeto Final
 
+## Semantix – Projeto Final
 
 
 * Nome: Rafael Felipe Morais dos Santos
@@ -23,7 +23,33 @@
 Ao longo de alguns meses foi transmitido através de treinamento o conhecimento em diversas ferramentas de *Big Data*, durante esse período foram mostradas aplicações como, *Redis*, *Mongo*, *Hive*, *Elastic*, *Spark* entre outras.
 Com isso ao final do treinamento foi solicitado o desenvolvimento de um *projeto de nível básico* que consiste em extrair e criar visualizações de painéis disponibilizado no site do [Ministério da Saúde](https://covid.saude.gov.br/), relacionado ao tema COVID.
 
-O desenvolvimento do projeto de forma completa deverá contemplar os tópicos abaixo:
+---
+
+### Atividade Proposta
+
+*As atividade apresentadas abaixo serão apresentadas em detalhes no arquivo notebook (.ipynb).*
+
+ 1. Enviar os dados para o hdfs.
+
+ 2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por município.
+
+ 3. Criar as 3 visualizações pelo Spark com os dados enviados para o HDFS.
+
+ 4. Salvar a primeira visualização como tabela Hive.
+
+ 5. Salvar a segunda visualização com formato parquet e compressão snappy.
+
+ 6. Salvar a terceira visualização em um tópico no Kafka.
+
+ 7. Criar a visualização pelo Spark com os dados enviados para o HDFS.
+
+ 8. Salvar a visualização do exercício 6 em um tópico no Elastic.
+
+ 9. Criar um dashboard no Elastic para visualização dos novos dados enviados.
+
+---
+
+### O desenvolvimento do projeto de forma completa deverá contemplar os tópicos abaixo:
 
 - [Projeto](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final_spark.pdf/)
 
@@ -35,5 +61,6 @@ O desenvolvimento do projeto de forma completa deverá contemplar os tópicos ab
 
 - [Projeto Final](https://github.com/rafaeldata21/projeto_final_semantix/blob/main/projeto_final.ipynb/)
 
+---
 
 ⚠ **Observação: Todas as imagens de exemplo (Visualizações) são apenas para referencias, o projeto irá ter valores diferentes e as formas de se criar tabelas com dataframe/dataset das visualizações, pode ser realizado da maneira que preferir.**
