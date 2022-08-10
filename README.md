@@ -15,3 +15,5 @@ O desenvolvimento do projeto de forma completa deverá contemplar os tópicos ab
 - Projeto Final
 
 - Material Elastic
+
+- Docker Win 10
