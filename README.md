@@ -13,3 +13,5 @@ O desenvolvimento do projeto de forma completa deverá contemplar os tópicos ab
 - Ambiente de desenvolvimento
 
 - Projeto Final
+
+- Material Elastic
